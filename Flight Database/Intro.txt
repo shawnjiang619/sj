@@ -1,0 +1,2 @@
+A flight booking application that allows customers to use a CLI to search, book, cancel, etc. flights implemented with SQL Azure.
+Implemented transaction that allows concurrency.
